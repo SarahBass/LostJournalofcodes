@@ -184,4 +184,12 @@ ARTWORK - DYLON M.
 
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/A4FA5789-7B2F-4F72-BF56-FD7A2512571D.png" width="300" height="400">
 
+## Futurama Cryptogram
+
+<img src="https://theinfosphere.org/images/9/9b/AL1_Key-2.png" width="300" height="400">
+
+## Indiana Jones Cryptogram
+
+<img src="http://findingmickey.squarespace.com/storage/files/indicard1.jpg?__SQUARESPACE_CACHEVERSION=1255849138641" width="300" height="400">
+
 # [Solutions](https://github.com/SarahBass/LostJournalofcodes/blob/main/Solutions%20Text)
