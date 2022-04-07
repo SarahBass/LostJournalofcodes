@@ -37,6 +37,7 @@ P.  15 | Nokia Code
 P.  16 | Mayan Numbers to Tri-nary (Powers of 3 )
 P.  17 | Indiana Jones Cyptogram
 P.  18 | Futurama Cryptogram
+P.  19 | Cryptogram
 LOST R | Lost References from Faraday Journal
 
 PAGE 1
@@ -64,6 +65,9 @@ PAGE 7
 PAGE 8
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/D7266113-F4A4-4B0A-8677-45CF11627A66.jpeg" width="300" height="400">
 
+PAGE 8
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/7411A5E7-CD26-48A4-8E9A-C2DEB54D5C61.jpeg" width="300" height="400">
+
 PAGE 9
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/3AA639A0-DB7F-4DC9-9141-B0655DB18E1B.jpeg" width="300" height="400">
 
@@ -87,21 +91,28 @@ PAGE 17
 PAGE 18
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/B75EBB2B-19C3-4EF1-AEA3-A04ED30B2B06.jpeg" width="300" height="400">
 
-LOST REFERENCES
+PAGE 19
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/764F1EB7-B475-4EAC-9612-392A249220F6.jpeg" width="300" height="400">
+
+LOST REFERENCES - DYLON M.
 
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/B1A74DB2-BA6A-4F35-A1D6-0B8AEF30DC7C.jpeg" width="300" height="400">
 
-LOST REFERENCES
+LOST REFERENCES - DYLON M.
 
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/01AD8E98-7FFC-411E-B139-CDAADDC0C5B1.jpeg" width="300" height="400">
 
-LOST REFERENCES
+LOST REFERENCES - DYLON M.
 
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/E953281A-4110-4777-9794-FE9F64CFB3A3.jpeg" width="300" height="400">
 
-LOST REFERENCES
+LOST REFERENCES - DYLON M.
 
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/C87A558D-6CAF-4DD5-AE10-01AB159EA075.jpeg" width="300" height="400">
+
+ARTWORK - DYLON M.
+
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/93961957-84C5-41AF-8942-5829658C940E.jpeg" width="300" height="400">
 
 ## ASCII TABLE
 
@@ -111,6 +122,10 @@ LOST REFERENCES
 
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/C6E0E0E9-0117-483C-BFA8-D40EA0EEADC5.jpeg" width="300" height="400">
 
+## MAYAN Mathematics
+
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/8C93E1D0-29F1-4709-B98E-DF631616D352.jpeg" width="300" height="400">
+
 ## HAM RADIO Codes
 
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/AF606CD0-2A0B-49B6-8AE6-A0C1F896CC91.png" width="300" height="400">
@@ -118,3 +133,7 @@ LOST REFERENCES
 ## SHIFT Folding by 3
 
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/A18F6947-3686-4CB8-8CBF-6CE0274EF50A.jpeg" width="300" height="400">
+
+## ASCII HEX DEC TABLE 
+
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/86175D24-EF14-4F4F-9464-97C871BB909E.png" width="300" height="400">
