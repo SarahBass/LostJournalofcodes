@@ -44,7 +44,7 @@ PAGE 1
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/4D8F85AF-2E66-4DA9-803E-4A083FBD1630.jpeg" width="300" height="400">
 
 PAGE 2
-<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/4D8F85AF-2E66-4DA9-803E-4A083FBD1630.jpeg" width="300" height="400">
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/5BABD8FB-D246-46F8-B685-FC4D063505D1.jpeg" width="300" height="400">
 
 PAGE 3
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/D4178D8A-1779-4A28-A2AB-DE72C56EC92A.jpeg" width="300" height="400">
@@ -82,8 +82,14 @@ PAGE 12
 PAGE 13
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/A703AE48-B9DC-47B6-98E8-6B5A2FD86BE2.jpeg" width="300" height="400">
 
+PAGE 14
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/3E1B385D-43C6-43AD-B9BE-3ED91B39CE1C.jpeg" width="300" height="400">
+
 PAGE 15
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/BC1246C8-DB0C-41AF-B1EF-20F02850AE41.jpeg" width="300" height="400">
+
+PAGE 16
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/643BE390-397B-4925-B9E5-0A25F2091ADB.jpeg" width="300" height="400">
 
 PAGE 17
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/DD6C0F8E-E271-4E4D-8847-3045181E21C1.jpeg" width="300" height="400">
@@ -110,6 +116,10 @@ LOST REFERENCES - DYLON M.
 
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/C87A558D-6CAF-4DD5-AE10-01AB159EA075.jpeg" width="300" height="400">
 
+LOST REFERENCES - DYLON M.
+
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/54BFF345-7A7C-4610-B29F-013321745DF7.jpeg" width="300" height="400">
+
 ARTWORK - DYLON M.
 
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/93961957-84C5-41AF-8942-5829658C940E.jpeg" width="300" height="400">
@@ -126,6 +136,10 @@ ARTWORK - DYLON M.
 
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/8C93E1D0-29F1-4709-B98E-DF631616D352.jpeg" width="300" height="400">
 
+## MAYAN Written Language
+
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/578534CC-9970-4D76-B45A-7A6A84311AE0.jpeg" width="300" height="400">
+
 ## HAM RADIO Codes
 
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/AF606CD0-2A0B-49B6-8AE6-A0C1F896CC91.png" width="300" height="400">
@@ -137,3 +151,8 @@ ARTWORK - DYLON M.
 ## ASCII HEX DEC TABLE 
 
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/86175D24-EF14-4F4F-9464-97C871BB909E.png" width="300" height="400">
+
+
+## HUFFMAN CODE 
+
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/45F1BDB5-4AB4-49A6-84E3-92AC6893AB9E.gif" width="300" height="400">
