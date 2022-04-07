@@ -92,6 +92,8 @@ ERROR: 4-4-4-4 IS 4 4-4-4
 PAGE 16
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/643BE390-397B-4925-B9E5-0A25F2091ADB.jpeg" width="300" height="400">
 
+ERROR: 200 is 202 = T. BTW: By The Way. Not BRW:. 
+
 PAGE 17
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/DD6C0F8E-E271-4E4D-8847-3045181E21C1.jpeg" width="300" height="400">
 
