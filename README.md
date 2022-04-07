@@ -36,9 +36,12 @@ P.  14 | Huffman Code
 P.  15 | Nokia Code
 P.  16 | Mayan Numbers to Tri-nary (Powers of 3 )
 P.  17 | Indiana Jones Cyptogram
-P.  18 | Futurama Cryptogram
-P.  19 | Cryptogram
+P.  18 | Indiana Jones Cyptogram
+P.  19 | Futurama Cryptogram
+P.  20 | Cryptogram
 LOST R | Lost References from Faraday Journal
+TABLES | Tables to help solve puzzles
+
 
 PAGE 1
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/4D8F85AF-2E66-4DA9-803E-4A083FBD1630.jpeg" width="300" height="400">
@@ -95,12 +98,15 @@ PAGE 16
 ERROR: 200 is 202 = T. BTW: By The Way. Not BRW:. 
 
 PAGE 17
-<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/DD6C0F8E-E271-4E4D-8847-3045181E21C1.jpeg" width="300" height="400">
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/D2C0ECE5-83B6-4F56-A30F-6C3F75C368F0.jpeg" width="300" height="400">
 
 PAGE 18
-<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/B75EBB2B-19C3-4EF1-AEA3-A04ED30B2B06.jpeg" width="300" height="400">
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/DD6C0F8E-E271-4E4D-8847-3045181E21C1.jpeg" width="300" height="400">
 
 PAGE 19
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/B75EBB2B-19C3-4EF1-AEA3-A04ED30B2B06.jpeg" width="300" height="400">
+
+PAGE 20
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/764F1EB7-B475-4EAC-9612-392A249220F6.jpeg" width="300" height="400">
 
 LOST REFERENCES - DYLON M.
@@ -174,5 +180,8 @@ ARTWORK - DYLON M.
 
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/0B04C1E9-44D3-448A-9D5B-3A1DC19CE8A5.jpeg" width="300" height="400">
 
+## NOKIA CIPHER 
+
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/A4FA5789-7B2F-4F72-BF56-FD7A2512571D.png" width="300" height="400">
 
 # [Solutions](https://github.com/SarahBass/LostJournalofcodes/blob/main/Solutions%20Text)
