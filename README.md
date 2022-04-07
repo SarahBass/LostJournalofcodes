@@ -39,8 +39,10 @@ P.  17 | Indiana Jones Cyptogram
 P.  18 | Futurama Cryptogram
 P.  20 | Lost Reference
 
-
+PAGE 1
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/4D8F85AF-2E66-4DA9-803E-4A083FBD1630.jpeg" width="300" height="400">
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/4D8F85AF-2E66-4DA9-803E-4A083FBD1630.jpeg" width="300" height="400">
+
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/D4178D8A-1779-4A28-A2AB-DE72C56EC92A.jpeg" width="300" height="400">
 
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/717EDA16-CC0F-453E-A15E-8134A959E500.jpeg" width="300" height="400">
