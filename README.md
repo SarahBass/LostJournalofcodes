@@ -173,3 +173,6 @@ ARTWORK - DYLON M.
 ## PLAYFAIR CIPHER 
 
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/0B04C1E9-44D3-448A-9D5B-3A1DC19CE8A5.jpeg" width="300" height="400">
+
+
+# [Solutions](https://github.com/SarahBass/LostJournalofcodes/blob/main/Solutions%20Text)
