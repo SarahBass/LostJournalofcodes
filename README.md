@@ -58,11 +58,7 @@ PAGE 5
 PAGE 6
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/121A0B84-15CC-44BF-A131-034A0188ACF5.jpeg" width="300" height="400">
 
-
 PAGE 7
-<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/13B1ABF8-E531-4D9B-BAEA-2370665DE2B8.jpeg" width="300" height="400">
-
-PAGE 8
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/D7266113-F4A4-4B0A-8677-45CF11627A66.jpeg" width="300" height="400">
 
 PAGE 8
@@ -70,6 +66,9 @@ PAGE 8
 
 PAGE 9
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/3AA639A0-DB7F-4DC9-9141-B0655DB18E1B.jpeg" width="300" height="400">
+
+PAGE 10
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/13B1ABF8-E531-4D9B-BAEA-2370665DE2B8.jpeg" width="300" height="400">
 
 PAGE 11
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/FDD5990C-4ECB-4C25-88BE-66F4925B2BF5.jpeg" width="300" height="400"> 
@@ -87,6 +86,8 @@ PAGE 14
 
 PAGE 15
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/BC1246C8-DB0C-41AF-B1EF-20F02850AE41.jpeg" width="300" height="400">
+
+ERROR: 4-4-4-4 IS 4 4-4-4
 
 PAGE 16
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/643BE390-397B-4925-B9E5-0A25F2091ADB.jpeg" width="300" height="400">
@@ -114,11 +115,20 @@ LOST REFERENCES - DYLON M.
 
 LOST REFERENCES - DYLON M.
 
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/2D5BDD71-A066-4355-AA01-EF3A5231D3B3.jpeg" width="300" height="400">
+
+LOST REFERENCES - DYLON M.
+
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/C87A558D-6CAF-4DD5-AE10-01AB159EA075.jpeg" width="300" height="400">
 
 LOST REFERENCES - DYLON M.
 
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/54BFF345-7A7C-4610-B29F-013321745DF7.jpeg" width="300" height="400">
+
+
+LOST REFERENCES - DYLON M.
+
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/19F91492-C732-4316-BD63-F4979A6B5570.jpeg" width="300" height="400">
 
 ARTWORK - DYLON M.
 
@@ -156,3 +166,8 @@ ARTWORK - DYLON M.
 ## HUFFMAN CODE 
 
 <img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/45F1BDB5-4AB4-49A6-84E3-92AC6893AB9E.gif" width="300" height="400">
+
+
+## PLAYFAIR CIPHER 
+
+<img src="https://github.com/SarahBass/LostJournalofcodes/blob/main/0B04C1E9-44D3-448A-9D5B-3A1DC19CE8A5.jpeg" width="300" height="400">
